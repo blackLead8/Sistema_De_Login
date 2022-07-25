@@ -8,6 +8,8 @@ namespace SistemaLogin
 {
     class CadastroUsuarios
     {
+
+        //Array de objetos do tipo usuario
         private static Usuario[] usuarios = 
         {
             new Usuario(){Nome = "Christopher", Senha="abc123"},
